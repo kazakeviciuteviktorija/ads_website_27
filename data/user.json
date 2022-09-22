@@ -1,0 +1,32 @@
+{
+    "0": {
+        "email": "viktorija.kazakeviciute@lietuvoskepejas.lt",
+        "password": "aa",
+        "phone_number": "+37013245678"
+    },
+    "1": {
+        "email": "viktorija.kazakeviciute@lietuvoskepejas.lt",
+        "password": "bb",
+        "phone_number": "+37013245678"
+    },
+    "2": {
+        "email": "viktorija.kazakeviciute@lietuvoskepejas.lt",
+        "password": "bb",
+        "phone_number": "+37013245678",
+        "register_data": {
+            "date": "2022-09-22 19:46:54.396861",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    },
+    "3": {
+        "email": "vv@l.lt",
+        "password": "a",
+        "phone_number": "+37013245678",
+        "register_data": {
+            "date": "2022-09-22 19:47:16.505024",
+            "timezone_type": 3,
+            "timezone": "Europe\/Berlin"
+        }
+    }
+}
